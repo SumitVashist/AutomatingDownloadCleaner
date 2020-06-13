@@ -12,7 +12,6 @@ extension_paths = {
         '.wav':    'media/audio',
         '.wma':    'media/audio',
         '.wpl':    'media/audio',
-        '.m3u':    'media/audio',
         # text
         '.txt':    'text/text_files',
         '.doc':    'text/microsoft/word',
